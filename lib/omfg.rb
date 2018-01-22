@@ -1,5 +1,9 @@
 require "omfg/version"
 
 module Omfg
-  # Your code goes here...
+  class OmfgWut 
+    def self.wut? 
+      puts "this"
+    end 
+  end 
 end
